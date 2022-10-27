@@ -16,7 +16,18 @@ Ahora revisamos el ServiceProxy:
 
 ![image](https://user-images.githubusercontent.com/25957863/198166321-7f9257b8-a33d-4be4-ae64-9552f1e95541.png)
 
-
+Que contiene el siguinete codigo:
+Vemos que podemos consumir los servicios del MathService a través de un conexión Http.
 
 ![Untitled](https://user-images.githubusercontent.com/25957863/198166270-fe0747e5-7602-4a6b-8066-4da7a941cf95.png)
 
+Podemos revisar desde el browser funcion de palindromos así:
+
+![image](https://user-images.githubusercontent.com/25957863/198166585-bb8590f0-a057-4f45-8dc7-e32483fddf8d.png)
+
+![image](https://user-images.githubusercontent.com/25957863/198166637-22a2138b-8d11-4d50-8be8-4c99bd869bce.png)
+
+
+Link del video:
+
+https://drive.google.com/file/d/1e6-wodDggZE8WS6bc6SOlNDPy3GVeBX3/view?usp=sharing
