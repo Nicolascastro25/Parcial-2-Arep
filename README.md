@@ -12,4 +12,6 @@ App ServiceProxy desde donde consumimos el MathService 1:
 
 ![Untitled](https://user-images.githubusercontent.com/25957863/198163167-ee9e3577-5073-4848-a1db-ebde336fa61b.png)
 
+Link del video:
 
+https://drive.google.com/file/d/1e6-wodDggZE8WS6bc6SOlNDPy3GVeBX3/view?usp=sharing
