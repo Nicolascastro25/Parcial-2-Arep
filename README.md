@@ -3,3 +3,7 @@
 Montamos y ejecutamos para probar la clase mathService 1:
 
 ![image](https://user-images.githubusercontent.com/25957863/198161996-316ba150-13e1-4b89-82e2-e824dac7663b.png)
+
+Probamos que el Api este funcionando en la dirección AWS pública:
+
+![image](https://user-images.githubusercontent.com/25957863/198162056-28733fb3-4821-403c-97ae-723b4f166c0c.png)
