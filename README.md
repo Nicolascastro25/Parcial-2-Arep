@@ -7,3 +7,9 @@ Montamos y ejecutamos para probar la clase mathService 1:
 Probamos que el Api este funcionando en la dirección AWS pública:
 
 ![image](https://user-images.githubusercontent.com/25957863/198162056-28733fb3-4821-403c-97ae-723b4f166c0c.png)
+
+App ServiceProxy desde donde consumimos el MathService 1:
+
+![Untitled](https://user-images.githubusercontent.com/25957863/198163167-ee9e3577-5073-4848-a1db-ebde336fa61b.png)
+
+
